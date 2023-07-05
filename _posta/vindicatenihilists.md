@@ -1,9 +1,3 @@
----
-title: "Vindicate Nihilists"
-author: NumeroHex
-tags: nihilism
-layout: post
----
 ### VERSE<br />
 I am awake, yet I’m asleep.<br />
 I make men tremble, yet shan’t weep.<br />
