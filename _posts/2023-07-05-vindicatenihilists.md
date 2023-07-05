@@ -1,5 +1,5 @@
 ---
-title: Test
+title: Vindicate Nihilists
 author: SRWeaver
 tags: test blogpost
 layout: post
