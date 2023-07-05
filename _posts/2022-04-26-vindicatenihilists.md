@@ -1,3 +1,9 @@
+---
+title: Test
+author: SRWeaver
+tags: test blogpost
+layout: post
+---
 ### VERSE<br />
 I am awake, yet I’m asleep.<br />
 I make men tremble, yet shan’t weep.<br />
