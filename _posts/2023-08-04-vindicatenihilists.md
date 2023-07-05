@@ -1,5 +1,5 @@
 ---
-title: Vindicate Nihilists
+title: "Vindicate Nihilists"
 author: NumeroHex
 tags: nihilism
 layout: post
