@@ -2,8 +2,7 @@
 layout: page
 title: About
 ---
-![image](https://github.com/LWFlouisa/MyPoetry/assets/9245433/5fd85aa9-234e-424b-b523-5cfdbb2959ca)
-
+![image](https://github.com/LWFlouisa/MyPoetry/assets/9245433/950cf205-2b2e-4bb8-9fcc-cfd73eff7b63)
 
 This is my new poetry website.
 
