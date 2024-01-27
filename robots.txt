@@ -1,8 +1,14 @@
 User-agent: GPTBot
-Disallow: /
+Disallow: /_posts
 
 User-agent: ChatGPT-User
-Disallow: /
+Disallow: /_posts
 
 User-agent: CCBot
-Disallow: /
+Disallow: /_posts
+
+User-agent: Googlebot
+Disallow: /_posts
+
+User-agent: Google-Extended
+Disallow: /_posts
